@@ -1,3 +1,18 @@
 Your answers go here!
+Beni Villafana Answers
+1. Linus Torvalds 
+2. Developed Linux Kernel 
+3. 2005
+4. git init
+5. push uploads my changes from my local machine to an online repo.
+   I'm contributing ~
+6. to not keep track of certain files. Possibly for the purpose of keeping
+   them private
+7. Copy of an online repo that I can edit. 
+   Allows me to contribute without affecting the master 
+8. clones are copies or a repo in another location. 
+   I assume unlimited amounts of clones
+9. don't put a repo inside of another repo ! ! ! !     
+10. TRUE
 Please include your name and number your answers.
 ==================================================
